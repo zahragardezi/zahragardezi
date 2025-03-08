@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=134359&width=435&lines=Hi%2C+Zahra+Gardezi+Here!;AI+Engineer)](https://git.io/typing-svg)
 
-<a href="https://app.daily.dev/zahragardezi"><img align="right" src="https://api.daily.dev/devcards/v2/HKN9eLjD9IY4N4vH0MZQz.png?r=9wo" width="320" alt="zahragardezi's Dev Card"/></a>
+<a href="https://app.daily.dev/zahragardezi"><img align="right" src="https://api.daily.dev/devcards/v2/s3NZTCkh3E2s8J2a8ddNk.png?r=9wo" width="320" alt="zahragardezi's Dev Card"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=zahragardezi&show_icons=true&theme=dark" width="495">
 
